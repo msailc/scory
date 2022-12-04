@@ -11,3 +11,22 @@
 .dashboard {
   position:inherit;
 }
+
+.card-team {
+  @apply text-center;
+}
+
+.result-team {
+  @apply text-center;
+  @apply text-gray-500
+}
+
+.news-image {
+  position: relative;
+}
+
+.news-text {
+  position: absolute;
+  top: 50%;
+  color: white;
+}

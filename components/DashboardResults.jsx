@@ -143,6 +143,66 @@ const DashboardResults = () => {
             </div>
             </div>
 
+            <div className='flex justify-between bg-white p-4 gap-10'>
+            <div>
+            <div className='card-team'>
+                NYK
+            </div>
+            <div className='result-team'>
+                100
+            </div>
+            </div>
+            <div>
+            <div className='card-team'>
+                @OKC
+            </div>
+
+            <div className='result-team'>
+                103
+            </div>
+            </div>
+            </div>
+
+            <div className='flex justify-between bg-white p-4 gap-10'>
+            <div>
+            <div className='card-team'>
+                NYK
+            </div>
+            <div className='result-team'>
+                100
+            </div>
+            </div>
+            <div>
+            <div className='card-team'>
+                @OKC
+            </div>
+
+            <div className='result-team'>
+                103
+            </div>
+            </div>
+            </div>
+
+            <div className='flex justify-between bg-white p-4 gap-10'>
+            <div>
+            <div className='card-team'>
+                NYK
+            </div>
+            <div className='result-team'>
+                100
+            </div>
+            </div>
+            <div>
+            <div className='card-team'>
+                @OKC
+            </div>
+
+            <div className='result-team'>
+                103
+            </div>
+            </div>
+            </div>
+
             
     </div>
   )

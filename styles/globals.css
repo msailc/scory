@@ -30,3 +30,8 @@
   top: 50%;
   color: white;
 }
+
+.rowC {
+  display: flex;
+  flex-direction: row;
+}

@@ -27,8 +27,8 @@ const DashboardNews = () => {
 ];
 
   return (
-    <div className='lg:ml-64 mt-8'>
-        <div className="grid gap-2 lg:grid-cols-4">
+    <div className='lg:ml-64 mt-8 w-3/5'>
+        <div className="grid gap-2 lg:grid-cols-3">
                 {posts.map((items, key) => (
                     <div className="w-full rounded-lg shadow-md lg:max-w-sm bg-white" key={key}>
                         <img

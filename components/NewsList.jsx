@@ -9,7 +9,7 @@ const NewsList = () => {
         <div className='news w-full '>
             <div className='flex bg-white w-full'>
                 <div className='flex'>
-                <Image src={placeholder} width={300}></Image>
+                <Image src={placeholder} width={300} alt={placeholder}></Image>
                 </div>
                 <div>
                 <h1 className='font-bold p-2'>

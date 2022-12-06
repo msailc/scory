@@ -11,7 +11,7 @@ const DashboardPlayers = () => {
           <div className='py-2 justify-center flex'>
           <div className=" bg-white w-60">
                         <div className='flex justify-center'>
-                        <Image src={player} width={140}></Image>
+                        <Image src={player} width={140} alt={player}></Image>
                         </div>
                         <div className="p-4">
                             <h4 className="text-xl font-semibold text-blue-600 flex justify-center">

@@ -22,7 +22,7 @@ const PlayersList = () => {
                             Point Guard
                         </h3>
                         <h2 className='flex justify-center'>
-                            6'3"
+                            6 3
                         </h2>
                         <h2 className='flex justify-center'>
                             175 lbs

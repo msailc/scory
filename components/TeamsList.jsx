@@ -9,7 +9,7 @@ const TeamsList = () => {
             <div className="grid gap-2 lg:grid-cols-6">
                         <div className=" bg-white  flex justify-center" >
                             <div className="p-8">
-                            <Image src={nbalogo} width={125} alt={nbalogo}></Image>
+                            <Image src={nbalogo} width={125} alt={"nbalogo"}></Image>
                                 <h4 className="text-xl font-semibold text-blue-600 flex justify-center mt-4">
                                  Thunder
                                 </h4>

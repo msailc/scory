@@ -8,7 +8,7 @@ const MatchesList = () => {
         <div className='matches'>
             <div className='flex p-6 justify-between bg-white w-[1000px]'>
                 <div className='flex'>
-                <Image src={player} width={50} alt={"player"}></Image>
+                <Image src={player} width={50} alt="player"></Image>
                 <h1>Team 1</h1>
                 </div>
                 <h2 className='font-bold'>result1</h2>
